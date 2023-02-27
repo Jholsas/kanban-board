@@ -1,0 +1,13 @@
+.footer{
+    display: flex;    
+    justify-content:flex-end;
+    align-items: baseline;    
+    align-items:baseline;
+    font-size: 1rem;
+    color: #F5F5F5;
+    margin-right: 4rem;
+}
+
+.icons{
+    margin: 2rem 0 0 1rem ;    
+}

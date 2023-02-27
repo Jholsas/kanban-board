@@ -1,5 +1,5 @@
 ## Screenshots
-![Screenshot desktop Version](https://i.imgur.com/a/tzIZi8H.png)
+![Screenshot desktop Version](https://i.imgur.com/j8tq3cC.png)
 
 
 # Getting Started with Create React App
